@@ -1,0 +1,21 @@
+name:                github-hook
+version:             0.0.0.1
+license-file:        UNLICENSE
+author:              Tomas Carnecky
+maintainer:          tomas.carnecky@gmail.com
+category:            GitHub
+build-type:          Simple
+cabal-version:       >= 1.8
+
+
+Library
+    Hs-Source-Dirs:      src
+
+    Exposed-Modules:     GitHub.Hook
+
+    Build-Depends:       aeson >= 0
+    Build-Depends:       base  >= 4
+
+    Extensions:          OverloadedStrings
+
+    Ghc-Options:         -Wall
