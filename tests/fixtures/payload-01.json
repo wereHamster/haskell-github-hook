@@ -1,0 +1,100 @@
+{
+    "after": "fa4fb8fbfebb9e5368a2c86d89a1cf61105d4d21", 
+    "before": "fa4fb8fbfebb9e5368a2c86d89a1cf61105d4d21", 
+    "commits": [ {
+        "added": [
+            ".gitignore"
+        ], 
+        "author": {
+            "email": "iq_andreas@hotmail.com", 
+            "name": "Andreas Renberg (IQAndreas)", 
+            "username": "IQAndreas"
+        }, 
+        "committer": {
+            "email": "iq_andreas@hotmail.com", 
+            "name": "Andreas Renberg (IQAndreas)", 
+            "username": "IQAndreas"
+        }, 
+        "distinct": true, 
+        "id": "a2abcac7b2f6c8d15319d87cd82c8046cf9359c3", 
+        "message": "Initial Commit", 
+        "modified": [], 
+        "removed": [], 
+        "timestamp": "2012-09-03T01:33:28-07:00", 
+        "url": "https://github.com/wereHamster/test/commit/fa4fb8fbfebb9e5368a2c86d89a1cf61105d4d21"
+    }, {
+        "added": [
+            ".gitignore"
+        ], 
+        "author": {
+            "email": "iq_andreas@hotmail.com", 
+            "name": "Andreas Renberg (IQAndreas)", 
+            "username": "IQAndreas"
+        }, 
+        "committer": {
+            "email": "iq_andreas@hotmail.com", 
+            "name": "Andreas Renberg (IQAndreas)", 
+            "username": "IQAndreas"
+        }, 
+        "distinct": true, 
+        "id": "a2abcac7b2f6c8d15319d87cd82c8046cf9359c3", 
+        "message": "Initial Commit", 
+        "modified": [], 
+        "removed": [], 
+        "timestamp": "2012-09-03T01:33:28-07:00", 
+        "url": "https://github.com/wereHamster/test/commit/fa4fb8fbfebb9e5368a2c86d89a1cf61105d4d21"
+    } ], 
+    "compare": "https://github.com/wereHamster/test/compare/fa4fb8fbfebb...fa4fb8fbfebb", 
+    "created": false, 
+    "deleted": false, 
+    "forced": false, 
+    "head_commit": {
+        "added": [
+            ".gitignore"
+        ], 
+        "author": {
+            "email": "iq_andreas@hotmail.com", 
+            "name": "Andreas Renberg (IQAndreas)", 
+            "username": "IQAndreas"
+        }, 
+        "committer": {
+            "email": "iq_andreas@hotmail.com", 
+            "name": "Andreas Renberg (IQAndreas)", 
+            "username": "IQAndreas"
+        }, 
+        "distinct": true, 
+        "id": "fa4fb8fbfebb9e5368a2c86d89a1cf61105d4d21", 
+        "message": "Initial Commit", 
+        "modified": [], 
+        "removed": [], 
+        "timestamp": "2012-09-03T01:33:28-07:00", 
+        "url": "https://github.com/wereHamster/test/commit/fa4fb8fbfebb9e5368a2c86d89a1cf61105d4d21"
+    }, 
+    "pusher": {
+        "name": "none"
+    }, 
+    "ref": "refs/heads/master", 
+    "repository": {
+        "created_at": "2012-04-18T13:53:52-07:00", 
+        "description": "", 
+        "fork": false, 
+        "forks": 0, 
+        "has_downloads": true, 
+        "has_issues": true, 
+        "has_wiki": true, 
+        "homepage": "", 
+        "id": 4068190, 
+        "name": "encounter", 
+        "open_issues": 0, 
+        "owner": {
+            "email": "tomas.carnecky@gmail.com", 
+            "name": "wereHamster"
+        }, 
+        "private": true, 
+        "pushed_at": "2012-11-20T12:46:29-08:00", 
+        "size": 122, 
+        "stargazers": 1, 
+        "url": "https://github.com/wereHamster/test", 
+        "watchers": 1
+    }
+}

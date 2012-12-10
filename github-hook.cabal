@@ -19,3 +19,16 @@ Library
     Extensions:          OverloadedStrings
 
     Ghc-Options:         -Wall
+
+
+Test-Suite tests
+    Type:                exitcode-stdio-1.0
+    Main-Is:             Tests.hs
+
+    Hs-Source-Dirs:      tests
+
+    Build-Depends:       aeson
+    Build-Depends:       base
+    Build-Depends:       bytestring
+    Build-Depends:       directory
+    Build-Depends:       github-hook
